@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+
+
+.site-card-wrapper {
+  background: #1b423d;
+}
+
+.card-color{
+    background-color: rgb(29, 27, 65);
+    
+}
+
+.titleCard{
+    color : white
+}
